@@ -31,10 +31,10 @@ const Services = () => {
             <span id='services'></span>
             <div className='py-10'>
                 <div className='container mx-auto'>
-                    <div className='text-center mb-20'>
+                    <div data-aos="fade-up" className='text-center mb-20'>
                         <h1 className='text-4xl font-bold font-pacifico text-gray-800'>Best Coffee For You</h1>
                     </div>
-                    <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 md:gap-5 place-items-center'>
+                    <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 md:gap-5 place-items-center space-y-10'>
                         {
                             ServicesData.map((data, index) => {
                                 return (
@@ -42,7 +42,7 @@ const Services = () => {
                                         data-aos="fade up"
                                         data-aos-delay={data.aosDelay}
                                         key={index} className='rounded-2xl bg-white hover:bg-primary hover:text-white shadow-xl duration-200 max-w-[300px] group relative'>
-                                        <div className='max-h-[122px]'>
+                                        <div className='h-[122px]'>
                                             <img src={data.img} alt="" className='max-w-[200px] block mx-auto transform -translate-y-14 group-hover:scale-110 group-hover:rotate-6 duration-300' />
                                         </div>
                                         <div className='p-4 text-center'>

@@ -25,4 +25,9 @@
     animation: spin 40s linear infinite;
 }
 
+/* smooth scrool */
+html {
+    scroll-behavior: smooth;
+}
+
 

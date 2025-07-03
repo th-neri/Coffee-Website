@@ -18,7 +18,7 @@ const AppStore = () => {
             <div style={backgroundColorStyle} className='py-14'>
                 <div className="container">
                     <div className='grid grid-cols-1 sm:grid-cols-2 items-center gap-4'>
-                        <div className='space-y-6 max-w-xl mx-auto'>
+                        <div data-aos="fade-up" className='space-y-6 max-w-xl mx-auto'>
                             <h1 className='text-2xl text-center sm:text-left font-semibold pl-3 text-white/90'>Coffee Cafe is available for Android and IOS</h1>
                             <div className='flex flex-wrap justify-center sm:justify-start items-center'>
                                 <a href="#">
