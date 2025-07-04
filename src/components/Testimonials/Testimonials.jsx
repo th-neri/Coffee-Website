@@ -84,7 +84,7 @@ const Testimonials = () => {
                     </div>
                     <div className='flex flex-col items-center gap-4'>
                       <div className='space-y-3'>
-                        <p className='text-xs text-gray-500'>{data.text}</p>
+                        <p className='text-xl text-gray-500'>{data.text}</p>
                         <h1 className='text-xl font-bold text-black/60 font-pacifico'>{data.name}</h1>
                       </div>
                     </div>

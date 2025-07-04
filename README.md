@@ -1,12 +1,47 @@
-# React + Vite
+<h1 align="center"> Coffee Cafe</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
+</p>
 
-Currently, two official plugins are available:
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=B88E2F&labelColor=000000">
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<br>
 
-## Expanding the ESLint configuration
+<p align="center">
+  <img alt="" src=".github/preview-1.PNG">
+</p>
+<p align="center">
+  <img alt="" src=".github/preview-2.PNG">
+</p>
+<p align="center">
+  <img alt="" src=".github/preview-3.PNG">
+</p>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## 🚀 Technologies
+
+This project was developed using the following technologies:
+
+- React JS
+- Java Script
+- HTML and CSS
+- Tailwind CSS
+- Git and Github
+
+## 💻 Project
+
+This project was made for fun and to improve my skills as a programmer
+
+
+
+## :memo: License
+
+This project is licensed under the MIT License
+
+
+<h1>Inspired by <a href="https://youtu.be/VU2rjKwhY_s?si=lpqzo0p4lj6Xipar" target ="blank">https://youtu.be/VU2rjKwhY_s?si=lpqzo0p4lj6Xipar</a></h1>   
