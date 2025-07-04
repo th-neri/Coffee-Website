@@ -25,7 +25,7 @@
 
 ## 🚀 Technologies
 
-This project was developed using the following technologies:
+This responsive project was developed using the following technologies:
 
 - React JS
 - Java Script
