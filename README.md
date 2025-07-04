@@ -44,4 +44,4 @@ This project was made for fun and to improve my skills as a programmer
 This project is licensed under the MIT License
 
 
-<h1>Inspired by <a href="https://youtu.be/VU2rjKwhY_s?si=lpqzo0p4lj6Xipar" target ="blank">https://youtu.be/VU2rjKwhY_s?si=lpqzo0p4lj6Xipar</a></h1>   
+<h3>Inspired by <a href="https://youtu.be/VU2rjKwhY_s?si=lpqzo0p4lj6Xipar" target ="blank">https://youtu.be/VU2rjKwhY_s?si=lpqzo0p4lj6Xipar</a></h3>   
